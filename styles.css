@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  margin-top: 20px 0;
+}
+
+.rgb-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.color-block {
+  width: 40px;
+  height: 40px;
+  margin: 0 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+#rgbText {
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.color-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 50%;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+#resetButton {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
