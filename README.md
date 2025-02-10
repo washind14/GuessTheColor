@@ -16,8 +16,8 @@ Guess The Color is a fun and interactive frontend web game where users test thei
 - **JavaScript (Vanilla JS)**: Handling game logic and interactivity
 
 ## 📸 Screenshots
-<img width="500" height="400" alt="Screenshot 2025-02-10 at 12 21 04 PM" src="https://github.com/user-attachments/assets/529aeeb9-f4d6-4152-9901-cbbd6f3c84c2" />
-<img width="500" height="400" alt="Screenshot 2025-02-10 at 12 22 44 PM" src="https://github.com/user-attachments/assets/420ed9ec-bada-4be8-b8fa-b9a85bd077c4" />
+<img width="400" height="300" alt="Screenshot 2025-02-10 at 12 21 04 PM" src="https://github.com/user-attachments/assets/529aeeb9-f4d6-4152-9901-cbbd6f3c84c2" />
+<img width="400" height="300" alt="Screenshot 2025-02-10 at 12 22 44 PM" src="https://github.com/user-attachments/assets/420ed9ec-bada-4be8-b8fa-b9a85bd077c4" />
 
 ## 🚀 Getting Started
 ### Prerequisites
