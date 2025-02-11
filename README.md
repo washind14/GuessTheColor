@@ -41,7 +41,6 @@ GuessTheColor/
 ├── index.html       # Main game interface
 ├── style.css        # Styling for the game
 ├── script.js        # Game logic and interactivity
-└── assets/          # (Optional) Images, icons, or other resources
 ```
 
 
